@@ -1,0 +1,4 @@
+garbage
+glass
+metal
+plastic
