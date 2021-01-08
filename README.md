@@ -10,3 +10,7 @@ reduce overfitting and increase the accuracy.
 
 The experiments of this research were executed using Keras library with TensorFlow back end
 (version 2.3.0) on Google Colaboratory
+
+## Feature Extraction and Fine Tuned Experiment 
+
+![alt text](https://github.com/pratimakandel/CV_Recycling/blob/master/chart.png/?raw=true)
