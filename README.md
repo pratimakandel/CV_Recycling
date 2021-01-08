@@ -14,3 +14,12 @@ The experiments of this research were executed using Keras library with TensorFl
 ## Feature Extraction and Fine Tuned Experiment 
 
 ![alt text](https://github.com/pratimakandel/CV_Recycling/blob/master/chart.png/?raw=true)
+
+The dataset used to train the model is from the TrashNet dataset [1]. The images on this dataset consist of photographs of garbage taken on a white
+background. More datasets of household items were collected from  Google Open Images Dataset V6 and google images. Each image was resized down to 150 x 150 pixels.
+
+References:
+
+1. Thung, Gary and Mingxiang, Yang. “Classification of Trash for Recyclability Status.” 2016.
+http://cs229.stanford.edu/proj2016/report/ThungYang-ClassificationOfTrashForRecyclabilityStatus-report.pdf​ .
+Accessed 16 November 2020
