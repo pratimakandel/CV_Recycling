@@ -23,3 +23,7 @@ References:
 1. Thung, Gary and Mingxiang, Yang. “Classification of Trash for Recyclability Status.” 2016.
 http://cs229.stanford.edu/proj2016/report/ThungYang-ClassificationOfTrashForRecyclabilityStatus-report.pdf​ .
 Accessed 16 November 2020
+
+## Demo
+
+![alt text](https://github.com/pratimakandel/CV_Recycling/blob/master/Result.PNG?raw=true)
